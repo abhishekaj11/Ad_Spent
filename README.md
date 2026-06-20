@@ -41,10 +41,11 @@ ad_spend_regression/
 │   ├── 03_simple_regression_line.png
 │   ├── 04_actual_vs_predicted.png
 │   ├── 05_residual_plot.png
-│   └── sales_regression_model.pkl   # saved trained model
+│   
 │
 ├── generate_data.py             # creates the dataset
 ├── regression_model.py          # main ML pipeline (this is the main file)
+└── sales_regression_model.pkl   # saved trained model
 └── README.md
 ```
 
